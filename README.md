@@ -42,3 +42,9 @@
 1x | USB connection cable
 
 
+# LEGO DUPLO featured frame version by little Katherine (4 yo)
+
+![Front view](https://github.com/sensboston/Instron.LEGO.Frame/blob/master/20190925_190756.jpg)
+
+![Front view](https://github.com/sensboston/Instron.LEGO.Frame/blob/master/20190925_190809.jpg)
+
