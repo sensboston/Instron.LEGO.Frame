@@ -2,9 +2,9 @@
 
 ## Arduino &amp; LEGO-based next frame design for the Instron LEGO frame contest
 
-![Side view](https://photos.app.goo.gl/ceiLzzs4i1DS9Xfs9)
+![Side view](https://github.com/sensboston/Instron.LEGO.Frame/blob/master/20190925_190915.jpg)
 
-![Front view](https://photos.app.goo.gl/h8tPJwbTXSFaSEXg9)
+![Front view](https://github.com/sensboston/Instron.LEGO.Frame/blob/master/20190925_190924.jpg)
 
 ### BOM (Bill Of Materials) for the animated frame set
    Count | Piece
