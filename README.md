@@ -1,8 +1,12 @@
 # Instron.LEGO.Frame
+
 ## Arduino &amp; LEGO-based next frame design for the Instron LEGO frame contest
 
-# BOM (Bill Of Materials) for the animated frame set
+![Side view](https://photos.app.goo.gl/ceiLzzs4i1DS9Xfs9)
 
+![Front view](https://photos.app.goo.gl/h8tPJwbTXSFaSEXg9)
+
+### BOM (Bill Of Materials) for the animated frame set
    Count | Piece
 ------------ | -------------
 2x | 2x8 pieces
