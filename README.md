@@ -5,7 +5,6 @@
 
    Count | Piece
 ------------ | -------------
-
 2x | 2x8 pieces
 18x | 1x4 pieces
 6x | 2x2 cylinders 
@@ -18,7 +17,7 @@
 1x | 2x3 orange brick 
 1x | Grips*
 
-* Most pieces are unlisted because either of sets, or unknown recognition. If you see bricks that haven’t been mentioned, pardon us.
+* Most pieces are unlisted because either of sets, or unknown recognition. If you see bricks that havenâ€™t been mentioned, pardon us.
 
 Electronics
 
