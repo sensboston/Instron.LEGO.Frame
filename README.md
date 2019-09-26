@@ -40,9 +40,10 @@
 10x | Wires
 1x | 3 AAA battery holder
 1x | USB connection cable
+1x | [open source software](https://github.com/sensboston/Instron.LEGO.Frame/blob/master/LEGO_Instron.ino)
 
 
-# LEGO DUPLO featured frame version by little Katherine (4 yo)
+# LEGO DUPLO frame version by little Katherine (4 yo)
 
 ![Front view](https://github.com/sensboston/Instron.LEGO.Frame/blob/master/20190925_190756.jpg)
 
