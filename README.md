@@ -7,6 +7,9 @@
 ![Front view](https://github.com/sensboston/Instron.LEGO.Frame/blob/master/20190925_190924.jpg)
 
 ### BOM (Bill Of Materials) for the animated frame set
+
+**LEGO pieces**
+
    Count | Piece
 ------------ | -------------
 2x | 2x8 pieces
@@ -23,7 +26,7 @@
 
 * Most pieces are unlisted because either of sets, or unknown recognition. If you see bricks that haven’t been mentioned, pardon us.
 
-Electronics
+**Electronics**
 
    Count | Piece
 ------------ | -------------
@@ -33,5 +36,7 @@ Electronics
 4x | LED
 2x | Resistor
 10x | Wires
+1x | 3 AAA battery holder
+1x | USB connection cable
 
 
