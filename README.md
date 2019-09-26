@@ -35,8 +35,8 @@
 1x | Arduino Nano
 1x | 28BYJ-48 Stepper Motor
 1x | ULN2003 driver
-4x | LED
-2x | Resistor
+4x | LED (2 red, green, yellow)
+2x | Resistor (100 ohm)
 10x | Wires
 1x | 3 AAA battery holder
 1x | USB connection cable
