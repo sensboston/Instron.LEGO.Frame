@@ -2,9 +2,9 @@
 
 ## Arduino &amp; LEGO-based next frame design for the Instron LEGO frame contest
 
-[![Watch the video](https://github.com/sensboston/Instron.LEGO.Frame/blob/master/20190925_190915.jpg)](https://youtu.be/oUKiCBb4iAo)
+**↓ Please click on picture to play video ↓**
 
-![Side view](https://github.com/sensboston/Instron.LEGO.Frame/blob/master/20190925_190915.jpg)
+[![Watch the video](https://github.com/sensboston/Instron.LEGO.Frame/blob/master/20190925_190915.jpg)](https://youtu.be/oUKiCBb4iAo)
 
 ![Front view](https://github.com/sensboston/Instron.LEGO.Frame/blob/master/20190925_190924.jpg)
 
