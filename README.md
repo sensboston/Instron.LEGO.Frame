@@ -49,3 +49,14 @@
 
 ![Front view](https://github.com/sensboston/Instron.LEGO.Frame/blob/master/20190925_190809.jpg)
 
+**DUPLO pieces**
+
+   Count | Piece
+------------ | -------------
+1x | 8x16 white baseplate
+1x | 6x12 green baseplate
+18x | 2x2 bricks
+2x | 6-block tall tower 
+2x | 2x2 2-block tall bricks
+
+
